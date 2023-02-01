@@ -94,5 +94,6 @@ Below are the steps needed to be installed before running this project :
 * SparkSQL_Queries_and_Python.py : Code for PySpark analysis and visualizations using Matplotlib
 * models_for_delay_prediction.py : Python file consisting Machine Learning component of the Project 
 * Scalability Check for Machine Learning System Predciting Flight Delays - Final Report : Project report created in MLSys 2022 format
+<br><br><br>
 ![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Anshumaan-Chauhan02)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshumaan-Chauhan02&layout=compact)
