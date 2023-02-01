@@ -1,4 +1,4 @@
-<p align=”center”>
+<p align=”centre”>
     <img height="150" src="https://user-images.githubusercontent.com/98472023/216134637-0c6cedf0-d0d0-4541-bdcf-ec64589c5ce3.png" alt="my banner">
 </p>
 This Repo consist of code and documentation needed for successfully running the project End to End.
