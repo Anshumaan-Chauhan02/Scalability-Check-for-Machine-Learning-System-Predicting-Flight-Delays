@@ -12,7 +12,7 @@ Below are the steps needed to be installed before running this project :
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
 <br>
-# 1) Install Spark / PySpark: (Assuming Mac OS)
+## 1) Install Spark / PySpark: (Assuming Mac OS)
 
 ### Install Homebrew
     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
@@ -33,7 +33,7 @@ Below are the steps needed to be installed before running this project :
 ### Install Apache Spark
     brew install apache-spark
     
-# Install Spark/PySpark  (Download links/documentations for OS - Windows, Linux, etc.)    
+## Install Spark/PySpark  (Download links/documentations for OS - Windows, Linux, etc.)    
 
 ### Install Spark
     https://spark.apache.org/downloads.html 
@@ -41,7 +41,7 @@ Below are the steps needed to be installed before running this project :
 ### Install Python/Anaconda
     https://docs.anaconda.com/anaconda/install/index.html
 
-# 2) Install machine learning libraries (Assuming already configured anaconda installed)
+## 2) Install machine learning libraries (Assuming already configured anaconda installed)
 
 ### Install Pandas 
     conda install pandas
@@ -52,7 +52,7 @@ Below are the steps needed to be installed before running this project :
 ### Install pytorch 
     Please refer website : https://pytorch.org/get-started/locally/
 
-# 3) Installing of MySQL and the related connectors
+## 3) Installing of MySQL and the related connectors
 
 ### Install MySQL
     https://dev.mysql.com/downloads/installer/
@@ -60,10 +60,10 @@ Below are the steps needed to be installed before running this project :
 ### Install MySQL Connector
     https://jar-download.com/artifacts/mysql/mysql-connector-java/5.1.48/source-code
 
-# 4) Dataset (Available at Kaggle)
+## 4) Dataset (Available at Kaggle)
     https://www.kaggle.com/datasets/giovamata/airlinedelaycauses
 
-# 5) Required changes in the Python file:  
+## 5) Required changes in the Python file:  
   
   ### Spark Session Inialization:
             .config("spark.driver.extraClassPath","C:/Users/AnshumaanChauhan/Documents/spark-3.3.0-bin-hadoop3/spark-3.3.0-bin-hadoop3/jars/mysql-connector-java-5.1.48.jar")
@@ -90,10 +90,9 @@ Below are the steps needed to be installed before running this project :
   In these statements change the value of "user" and "password" to the values specified during initializing of MySQL on the system 
 
 ###  File Description and Content 
-     - MySQLQueries.sql file constits of the MySQL Analysis
-     - SparkSQL_Queries_and_Python.py contains the code for PySpark analysis and visualizations using Matplotlib
-     - models_for_delay_prediction.py file has the Machine Learning component of the Project 
-
-
+* MySQLQueries.sql : Constits of the MySQL Analysis
+* SparkSQL_Queries_and_Python.py : Code for PySpark analysis and visualizations using Matplotlib
+* models_for_delay_prediction.py : Python file consisting Machine Learning component of the Project 
+* Scalability Check for Machine Learning System Predciting Flight Delays - Final Report : Project report created in MLSys 2022 format
 ![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Anshumaan-Chauhan02)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshumaan-Chauhan02&layout=compact)
