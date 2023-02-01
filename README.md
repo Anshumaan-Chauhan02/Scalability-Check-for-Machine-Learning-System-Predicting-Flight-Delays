@@ -90,7 +90,6 @@ Below are the steps needed to be installed before running this project :
      - SparkSQL_Queries_and_Python.py contains the code for PySpark analysis and visualizations using Matplotlib
      - models_for_delay_prediction.py file has the Machine Learning component of the Project 
 
-<p align="center">
-    ![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Anshumaan-Chauhan02)]
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshumaan-Chauhan02&layout=compact)]
-</p>
+
+![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Anshumaan-Chauhan02)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshumaan-Chauhan02&layout=compact)]
