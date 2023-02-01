@@ -89,7 +89,7 @@ Below are the steps needed to be installed before running this project :
     
   In these statements change the value of "user" and "password" to the values specified during initializing of MySQL on the system 
 
-###  File Description and Content 
+## 6) File Description and Content 
 * MySQLQueries.sql : Constits of the MySQL Analysis
 * SparkSQL_Queries_and_Python.py : Code for PySpark analysis and visualizations using Matplotlib
 * models_for_delay_prediction.py : Python file consisting Machine Learning component of the Project 
