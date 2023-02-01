@@ -1,5 +1,5 @@
 
-<h2 style="text-align:center"><b> Scalability Check for Machine Learning System Predciting Flight Delays </b></h2>
+<h2 align='center'><b> Scalability Check for Machine Learning System Predciting Flight Delays </b></h2>
 <img width='1500' height='300' src="https://user-images.githubusercontent.com/98472023/216134637-0c6cedf0-d0d0-4541-bdcf-ec64589c5ce3.png" alt="my banner"> 
 
 This Repo consist of code and documentation needed for successfully running the project End to End.
